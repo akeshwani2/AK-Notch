@@ -12,10 +12,10 @@ Haptic Feedback: Enable or disable haptic feedback for a tactile experience when
 File Storage Duration: Set how long files should remain in the tray, ranging from 1 day to forever, or customize your own duration based on your needs.
 
 ## AirDrop Integration
- - **Automatic AirDrop** When you drag a file into the AKNotch tray, it will automatically trigger an AirDrop session. This eliminates the need for extra steps, streamlining the process of sharing files with nearby Apple devices.
-Device Selection: After dragging a file into the tray, AKNotch will present available devices for AirDrop. You can easily select the desired recipient from the list.
-File Confirmation: Once the file is sent via AirDrop, you'll receive a notification confirming the successful transfer.
-Support for Multiple Files: Drag and drop multiple files at once, and AKNotch will handle the AirDrop process for each file efficiently.
+ - **Automatic AirDrop:** When you drag a file into the AKNotch tray, it will automatically trigger an AirDrop session. This eliminates the need for extra steps, streamlining the process of sharing files with nearby Apple devices.
+ - **Device Selection:** After dragging a file into the tray, AKNotch will present available devices for AirDrop. You can easily select the desired recipient from the list.
+ - **File Confirmation:** Once the file is sent via AirDrop, you'll receive a notification confirming the successful transfer.
+ - **Support for Multiple Files:** Drag and drop multiple files at once, and AKNotch will handle the AirDrop process for each file efficiently.
 
 
 ## Usage
