@@ -2,7 +2,7 @@
 AKNotch is a sleek and intuitive macOS utility designed to enhance your productivity. It provides a convenient drag-and-drop tray for quick file handling/storing and transfer, AirDrop integration, and includes customizable settings to suit your workflow.
 
 ## Features
- - **Drag-and-Drop Tray**
+ - **Drag-and-Drop Tray:**
 Effortlessly drag and drop files into the tray for temporary storage and quick access.
 Automatically initiate AirDrop for any file dragged into the tray, making file sharing seamless and fast.
 
