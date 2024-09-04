@@ -6,7 +6,6 @@ AKNotch is a sleek and intuitive macOS utility designed to enhance your producti
 Effortlessly drag and drop files into the tray for temporary storage and quick access.
 Automatically initiate AirDrop for any file dragged into the tray, making file sharing seamless and fast.
 
- - **Customizable Settings**
 **Open at Login:** Option to automatically launch AKNotch when your Mac starts, ensuring it's always ready when you are.
 
 **Haptic Feedback:** Enable or disable haptic feedback for a tactile experience when interacting with the app.
