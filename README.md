@@ -1,4 +1,4 @@
-# AKNotch
+# AKNotch (Email me at akeshwanibusiness@gmail.com for any queries)
 AKNotch is a sleek and intuitive macOS utility designed to enhance your productivity. It provides a convenient drag-and-drop tray for quick file handling/storing and transfer, AirDrop integration, and includes customizable settings to suit your workflow.
 
 ## Features
